@@ -13,9 +13,9 @@ Calculated data is written to a *.csv file.
 
 ## Usage
 
-1. Download Facebook Messenger data in JSON format:
+1. Download Facebook Messenger data in JSON format:  
 https://www.facebook.com/dyi/?referrer=yfi_settings
-2. Run the script specifying a relative path to the target chat folder: 
-`python3 cha_counter.py <relative path to the folder>`
-Example:
+2. Run the script specifying a relative path to the target chat folder:  
+`python3 cha_counter.py <relative path to the folder>`  
+Example:  
 `python3 cha_counter.py data/facebook-facebookuser1/messages/inbox/groupname_xyz`
