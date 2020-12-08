@@ -1,11 +1,11 @@
 # "Cha Cha" reaction counting script
 
-The script analyzes basic stats of a Facebook chat.
+The script analyzes the basic stats of a Facebook chat.
 
 It gathers the following information:
 
 * The number of messages each participant has sent;
-* The number of received Cha Cha reactions each participant gave/received;
+* The number of Cha Cha reactions given/received by each participant;
 
 The script also figures out how many times each participant reacted to a particular participant's message in the group chat.
 
