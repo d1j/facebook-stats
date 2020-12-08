@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Participant name"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sender Name",
+      "timestamp_ms": 1598196502630,
+      "content": "message",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Participant who gave the reaction"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Group chat title",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/group_chatxyz"
+}
