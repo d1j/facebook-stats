@@ -2,3 +2,8 @@ data/
 *.csv
 *.sh
 *.xlsx
+__pycache__
+venv/
+out_data/
+*.json
+test.py

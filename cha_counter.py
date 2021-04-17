@@ -129,8 +129,7 @@ def main():
                             group[giverIndex].gaveCha[message["sender_name"]] += 1
 
     # Find group name
-    last_slash_index = file_path.rfind("/") + 1
-    group_name = file_path[last_slash_index:]
+    group_name = file_path.split("\\")[-1]
 
     file = codecs.open(
         "stats_{}.csv".format(group_name), "w", "iso-8859-1")
